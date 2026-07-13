@@ -82,23 +82,21 @@ Assignment20\_Recommandation\_System
 
 &#x20;   |\_\_ movie.csv
 
-| 
+|
 
-|\_\_ Assignment20\_allTask.ipynb 
+|\_\_ Assignment20\_allTask.ipynb
 
-| 
+|
 
-|\_\_ app.py                     
+|\_\_ app.py
 
-|\_\_ movies.csv                 
+|\_\_ movies.csv
 
-|\_\_ movies\_data.pkl            
+|\_\_ movies\_data.pkl
 
-|\_\_ similarity.pkl             
+|\_\_ requirements.txt
 
-|\_\_ requirements.txt           
-
-|\_\_ README.md                 
+|\_\_ README.md
 
 
 
@@ -363,6 +361,4 @@ streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
 
 
 This project demonstrates the complete workflow of building a Content-Based Recommendation System, creating a Streamlit web application, using GitHub for version control, and deploying the project on Render.
-
-
 
